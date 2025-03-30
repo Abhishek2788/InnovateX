@@ -48,5 +48,3 @@ arcjet
 resend
 shadcn ui
 
-Login id: gajendranarayan2788@gmail.com
-Password: A@bhishek123
